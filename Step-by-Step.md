@@ -6,7 +6,7 @@ Open Command Prompt and enter:
 
 ipconfig /all
 
-What this does:
+**What this does:**
 
 Displays detailed information about your computer's network adapters, IP address, default gateway, and DNS servers.
 
@@ -18,7 +18,7 @@ Enter:
 
 ping google.com
 
-What this does:
+**What this does:**
 
 Tests whether your computer can communicate with the destination.
 
@@ -32,7 +32,7 @@ Enter:
 
 nslookup microsoft.com
 
-What this does:
+**What this does:**
 
 Performs a DNS lookup to find the IP address associated with a domain name.
 
@@ -56,7 +56,7 @@ Enter:
 
 Get-NetFirewallProfile
 
-What this does:
+**What this does:**
 
 Displays the configuration of Windows Firewall profiles.
 
@@ -80,7 +80,7 @@ Enter:
 
 Get-NetFirewallRule | Select-Object -First 10
 
-What this does:
+**What this does:**
 
 Displays the first ten firewall rules returned by Windows.
 
