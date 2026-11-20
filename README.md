@@ -48,20 +48,5 @@ This project demonstrates how network administration and security work together 
 
 - Technical documentation
 
-**What I Learned**
-
-Complete this section after performing the lab.
-
-Explain how network configurations, DNS, connectivity testing, and firewall settings contribute to computer networking and security.
-
-**Results**
-
-Document your actual network test results and firewall observations.
-
-Explain what you discovered during the investigation.
-
-**Conclusion**
-
-This lab demonstrated how IT networking and cybersecurity work together to help maintain reliable and secure computer systems.
 
 Author: Zakhena Shorter IT Professional | Recent IT Graduate
