@@ -64,3 +64,4 @@ Explain what you discovered during the investigation.
 
 This lab demonstrated how IT networking and cybersecurity work together to help maintain reliable and secure computer systems.
 
+Author: Zakhena Shorter IT Professional | Recent IT Graduate
