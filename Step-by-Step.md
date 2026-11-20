@@ -94,23 +94,19 @@ Screenshot 5: Save your firewall rule results.
 
 Answer these questions:
 
-What is the purpose of an IP address?
+What is the purpose of an IP address? The main purpose of an IP address is to identify devices and help data travel to the correct destination across a network. The main purpose of an IP address is to identify devices and help data travel to the correct destination across a network.
 
-What does DNS do?
+What does DNS do? DNS (Domain Name System) translates website names into IP addresses so computers can find and connect to websites. DNS converts website names into IP addresses so devices know where to go.
 
-What does the nslookup command help you investigate?
+What does the nslookup command help you investigate? The nslookup command helps you investigate DNS by checking the IP address associated with a website or domain name. nslookup helps IT and cybersecurity professionals investigate DNS issues and find the IP addresses connected to domain names.
 
-What is a firewall?
+What is a firewall? A firewall is a security system that monitors and controls incoming and outgoing network traffic to protect computers and networks from unauthorized access. A firewall protects computers and networks by filtering traffic and blocking potentially dangerous connections.
 
-Why is Windows Firewall important?
+Why is Windows Firewall important? Windows Firewall is important because it helps protect your computer from hackers, unauthorized access, and potentially harmful network connections. Windows Firewall helps keep your computer safe by monitoring network traffic and blocking unwanted connections.
 
-How do networking and cybersecurity work together?
+How do networking and cybersecurity work together? Networking and cybersecurity work together to keep computers, devices, and networks connected while protecting them from hackers, threats, and unauthorized access. Networking connects devices, while cybersecurity protects those connections and the information traveling through them.
 
-Screenshots
-
-Save your screenshots inside the screenshots folder.
-
-**Recommended filenames:**
+**Screenshots**
 
 01-network-configuration.png
 
